@@ -1,0 +1,140 @@
+[
+  {
+    "platform": "3080",
+    "language": "de",
+    "path": "40-KI-Bilder-Videos-12GB-RTX-3080-Ti/WORKFLOWS.zip",
+    "bytes": 55915,
+    "sha256": "faf334cb7b4ef632467b0d2462d6a117e90e85a0706c9940c0a9161a83e0e58a",
+    "source_local_package_sha256": "8886379352a0aebf6a86eced388dc9f13d09932148aa67f8680bc08f014d7818",
+    "video_folder": "40-KI-Bilder-Videos-12GB-RTX-3080-Ti",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-NVIDIA-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt",
+      "16-GRUSSKARTEN-ANIMATION-3080TI.txt"
+    ]
+  },
+  {
+    "platform": "3080",
+    "language": "en",
+    "path": "41-AI-Images-Video-12GB-RTX-3080-Ti-English/WORKFLOWS.zip",
+    "bytes": 54300,
+    "sha256": "de07d1cbe301d67782efa4fbae981c3eac73630e70af6f20979e0b67aa3231c7",
+    "source_local_package_sha256": "903c27590e9d16b7d8985c00ce94e6c49105ee76c23e965c95247e75a2f6c1a0",
+    "video_folder": "41-AI-Images-Video-12GB-RTX-3080-Ti-English",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-NVIDIA-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt",
+      "16-GRUSSKARTEN-ANIMATION-3080TI.txt"
+    ]
+  },
+  {
+    "platform": "3090",
+    "language": "de",
+    "path": "42-Fotos-kolorieren-animieren-RTX-3090-Ti/WORKFLOWS.zip",
+    "bytes": 59170,
+    "sha256": "18f5ac364628c3cdec300f5cb8cc6c63c3ff6eed6786f2d1217c72ee25f9a6ea",
+    "source_local_package_sha256": "e73299f473f05983a633a2a252c7ab71d48a2ac08deb9cc30365ce79df797b28",
+    "video_folder": "42-Fotos-kolorieren-animieren-RTX-3090-Ti",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-NVIDIA-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt",
+      "16-PAPIERABZUG-ANIMATION-3090TI.txt",
+      "17-GRUSSKARTEN-ZEITEN-3090TI.txt"
+    ]
+  },
+  {
+    "platform": "3090",
+    "language": "en",
+    "path": "43-Colourise-Animate-Photos-RTX-3090-Ti-English/WORKFLOWS.zip",
+    "bytes": 57149,
+    "sha256": "51def312b2b579301232895a868695981079205b24091df611c7cb06f0576c72",
+    "source_local_package_sha256": "e9e9da83e6479281f53f94e83bb7d3e891a338a0e333e37ebe1e8a718173e96a",
+    "video_folder": "43-Colourise-Animate-Photos-RTX-3090-Ti-English",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-NVIDIA-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt",
+      "16-PAPIERABZUG-ANIMATION-3090TI.txt",
+      "17-GRUSSKARTEN-ZEITEN-3090TI.txt"
+    ]
+  },
+  {
+    "platform": "amd",
+    "language": "de",
+    "path": "38-KI-Bilder-Videos-ohne-Nvidia-AMD-Strix-Halo/WORKFLOWS.zip",
+    "bytes": 50583,
+    "sha256": "2740c4bc77e4ca2218041605bf518956d9f2c730c5f0daac1bfeebc06520db7f",
+    "source_local_package_sha256": "260bda8e7c18b4b457db7e049736b340cc52afd172c92bf3cb90e93b19901ef7",
+    "video_folder": "38-KI-Bilder-Videos-ohne-Nvidia-AMD-Strix-Halo",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-AMD-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt"
+    ]
+  },
+  {
+    "platform": "amd",
+    "language": "en",
+    "path": "39-AI-Images-Video-Without-Nvidia-AMD-Strix-Halo-English/WORKFLOWS.zip",
+    "bytes": 49324,
+    "sha256": "434d4ab3ff1d39dc35ec46bb158915feed4d4b42f7ef07f86d20325cd05051fb",
+    "source_local_package_sha256": "9d1c16b36a311c76defbfe4c2ee9434062627a582789b93648efe5e9aeaaec6b",
+    "video_folder": "39-AI-Images-Video-Without-Nvidia-AMD-Strix-Halo-English",
+    "text_files": [
+      "05-DOWNLOADS-OFFIZIELL.txt",
+      "06-MODELLE-UND-ORDNER.txt",
+      "07-NODES-STANDARD-UND-CUSTOM.txt",
+      "08-PROMPTS.txt",
+      "09-WORKFLOW-INPUT-BIS-OUTPUT.txt",
+      "10-NODE-VERBINDUNGEN-TESTBELEGE.txt",
+      "11-KLEIDUNG-QWEN21-NACHBAU.txt",
+      "12-AMD-INSTALLATION-START.txt",
+      "13-UI-WORKFLOWS-IMPORT.txt",
+      "14-MODELLDOWNLOADS-KATALOG.txt",
+      "15-LIZENZEN-QUELLEN.txt"
+    ]
+  }
+]

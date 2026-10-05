@@ -136,5 +136,85 @@
       "14-MODELLDOWNLOADS-KATALOG.txt",
       "15-LIZENZEN-QUELLEN.txt"
     ]
+  },
+  {
+    "platform": "amd",
+    "language": "de",
+    "kind": "flux",
+    "path": "01-FLUX2-EVO/WORKFLOWS.zip",
+    "bytes": 6455,
+    "sha256": "c87985dadb1e5271a308b78daafdfa7387892afdeb0448d8cd6ae0056e7e7654",
+    "source_local_package_sha256": "c87985dadb1e5271a308b78daafdfa7387892afdeb0448d8cd6ae0056e7e7654",
+    "video_folder": "01-FLUX2-EVO",
+    "text_files": [
+      "FLUX2-Q4-EVO.json",
+      "INSTALL-COMFYUI.ps1",
+      "MODEL-FOLDERS.txt",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "START-COMFYUI.ps1",
+      "VERIFICATION.json"
+    ]
+  },
+  {
+    "platform": "amd",
+    "language": "en",
+    "kind": "flux",
+    "path": "07-FLUX2-English/WORKFLOWS.zip",
+    "bytes": 6348,
+    "sha256": "9e653e3b9b09c65ee03203d1305c6944922cfb441cb12d4f7812a55767cf2c81",
+    "source_local_package_sha256": "9e653e3b9b09c65ee03203d1305c6944922cfb441cb12d4f7812a55767cf2c81",
+    "video_folder": "07-FLUX2-English",
+    "text_files": [
+      "FLUX2-Q4-EVO.json",
+      "INSTALL-COMFYUI.ps1",
+      "MODEL-FOLDERS.txt",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "START-COMFYUI.ps1",
+      "VERIFICATION.json"
+    ]
+  },
+  {
+    "platform": "amd",
+    "language": "de",
+    "kind": "llama",
+    "path": "05-Vulkan-EVO/WORKFLOWS.zip",
+    "bytes": 4987,
+    "sha256": "7f539b0e77f940540f64049451afa679df9522ebac66fdbd81435a5f69f00ba7",
+    "source_local_package_sha256": "7f539b0e77f940540f64049451afa679df9522ebac66fdbd81435a5f69f00ba7",
+    "video_folder": "05-Vulkan-EVO",
+    "text_files": [
+      "CONFIG-EXAMPLE.json",
+      "INSTALL-LLAMA.ps1",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "START-LLAMA.ps1",
+      "TEST-API.ps1",
+      "VERIFICATION.json"
+    ]
+  },
+  {
+    "platform": "amd",
+    "language": "en",
+    "kind": "llama",
+    "path": "14-vulkan-evo-English/WORKFLOWS.zip",
+    "bytes": 4901,
+    "sha256": "c75e75a2fa906bb1b8f400058512f366a5c2fe2746834db7134c026d40c20617",
+    "source_local_package_sha256": "c75e75a2fa906bb1b8f400058512f366a5c2fe2746834db7134c026d40c20617",
+    "video_folder": "14-vulkan-evo-English",
+    "text_files": [
+      "CONFIG-EXAMPLE.json",
+      "INSTALL-LLAMA.ps1",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "START-LLAMA.ps1",
+      "TEST-API.ps1",
+      "VERIFICATION.json"
+    ]
   }
 ]

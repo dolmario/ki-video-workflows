@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 8091,
+  "alias": "lokales-modell",
+  "context": 8192,
+  "gpu_layers": 999,
+  "model": "YOUR-SUPPORTED-MODEL.gguf",
+  "note": "Parameter reference only; START-LLAMA.ps1 accepts explicit arguments."
+}

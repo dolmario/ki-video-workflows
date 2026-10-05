@@ -1,0 +1,8 @@
+{
+  "prepared": "2026-10-05T22:27:14.003213+02:00",
+  "language": "de",
+  "fresh_install_executed": false,
+  "new_model_run_executed": false,
+  "workflow_kind": "llama.cpp launch/config/API request",
+  "processing_graph_unchanged": null
+}

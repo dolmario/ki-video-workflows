@@ -216,5 +216,51 @@
       "TEST-API.ps1",
       "VERIFICATION.json"
     ]
+  },
+  {
+    "platform": "business",
+    "language": "de",
+    "path": "20-Lokale-KI-Firmen/WORKFLOWS.zip",
+    "bytes": 6829,
+    "sha256": "618c389b18f7d17e888c86dc82ab8089018377961f7d36d3c8a0bba6e0a48b37",
+    "video_folder": "20-Lokale-KI-Firmen",
+    "text_files": [
+      "01-MODELL-OHNE-WISSEN.txt",
+      "02-AGENT-MIT-QUELLEN.txt",
+      "AUSWERTUNG.csv",
+      "CHECKLISTE.md",
+      "ERWARTUNGEN.md",
+      "FAKTEN/AKTUELL.md",
+      "FAKTEN/VERALTET.md",
+      "INSTALL-START.md",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "TASKS.json",
+      "TEST-VERBINDUNG.ps1"
+    ]
+  },
+  {
+    "platform": "business",
+    "language": "en",
+    "path": "21-Local-AI-Companies-English/WORKFLOWS.zip",
+    "bytes": 6359,
+    "sha256": "ffa7974164a1441e4ac0a970f7a9b37f2d51ed90c89a2cc1557b4e79e2adeb45",
+    "video_folder": "21-Local-AI-Companies-English",
+    "text_files": [
+      "01-MODELL-OHNE-WISSEN.txt",
+      "02-AGENT-MIT-QUELLEN.txt",
+      "AUSWERTUNG.csv",
+      "CHECKLISTE.md",
+      "ERWARTUNGEN.md",
+      "FAKTEN/AKTUELL.md",
+      "FAKTEN/VERALTET.md",
+      "INSTALL-START.md",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "TASKS.json",
+      "TEST-VERBINDUNG.ps1"
+    ]
   }
 ]

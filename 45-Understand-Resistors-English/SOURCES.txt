@@ -1,0 +1,12 @@
+Original Dolmario resistor research, 2026-10-05; original narration and calculations, 2026-10-06.
+Calculated predictions only. No practical validation or recorded measurements claimed.
+https://www.vishay.com/docs/28771/basics.pdf
+https://www.vishay.com/docs/28724/mrs16m25.pdf
+https://www.vishay.com/docs/49617/_color_code_card_draloric_resistors_vmn_ms6212_1501.pdf
+https://www.vishay.com/doc/?20143=
+https://www.vishay.com/docs/28372/e-series.pdf
+https://www.vishay.com/docs/29049/ntcle100.pdf
+https://bourns.com/docs/product-datasheets/crt.pdf
+https://bourns.com/pdfs/CRP0603.pdf
+https://www.koaspeer.com/pdfs/RK73B.pdf
+https://www.fluke.com/en-ie/learn/blog/digital-multimeters/how-to-measure-resistance

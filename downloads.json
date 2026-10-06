@@ -262,5 +262,61 @@
       "TASKS.json",
       "TEST-VERBINDUNG.ps1"
     ]
+  },
+  {
+    "platform": "resistor-education",
+    "language": "de",
+    "path": "44-Widerstaende-verstehen/WORKFLOWS.zip",
+    "bytes": 26891,
+    "sha256": "a41407dacc1b43cc869aff2698892cdf420d0e4b7b3f99c3be15054badd2a3b3",
+    "video_folder": "44-Widerstaende-verstehen",
+    "film_status": "in_production",
+    "results": "calculated_predictions_not_measurements",
+    "text_files": [
+      "ABSCHLUSSCHECK.md",
+      "DIAGRAMME/08.svg",
+      "DIAGRAMME/10.svg",
+      "DIAGRAMME/19.svg",
+      "DIAGRAMME/21.svg",
+      "DIAGRAMME/26.svg",
+      "DIAGRAMME/29.svg",
+      "DIAGRAMME/34.svg",
+      "DIAGRAMME/38.svg",
+      "LOESUNGEN.md",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "SPRECHERTEXT.md",
+      "VERSUCHE.md",
+      "WORKSHEETS.html"
+    ]
+  },
+  {
+    "platform": "resistor-education",
+    "language": "en",
+    "path": "45-Understand-Resistors-English/WORKFLOWS.zip",
+    "bytes": 27041,
+    "sha256": "5287d819b42f717c74b9f94fba8e199ed01cb83f636f589b974b90280b05470f",
+    "video_folder": "45-Understand-Resistors-English",
+    "film_status": "in_production",
+    "results": "calculated_predictions_not_measurements",
+    "text_files": [
+      "ABSCHLUSSCHECK.md",
+      "DIAGRAMME/08.svg",
+      "DIAGRAMME/10.svg",
+      "DIAGRAMME/19.svg",
+      "DIAGRAMME/21.svg",
+      "DIAGRAMME/26.svg",
+      "DIAGRAMME/29.svg",
+      "DIAGRAMME/34.svg",
+      "DIAGRAMME/38.svg",
+      "LOESUNGEN.md",
+      "README.md",
+      "SHA256SUMS.txt",
+      "SOURCES.txt",
+      "SPRECHERTEXT.md",
+      "VERSUCHE.md",
+      "WORKSHEETS.html"
+    ]
   }
 ]

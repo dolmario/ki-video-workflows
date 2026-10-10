@@ -1,32 +1,21 @@
-# Dolmario – ein Ordner pro Video / One folder per video
-
-Deutsch und Englisch haben jeweils einen eigenen nummerierten Ordner. Jeder enthält die passenden Anleitungen und WORKFLOWS.zip; die Beilagen unterscheiden sich je Video.
-
-Each German and English video has its own numbered folder containing appropriate instructions and WORKFLOWS.zip; companion files vary by topic.
-
-| Hardware | Deutsch | English |
-|---|---|---|
-| AMD Strix Halo | [38](38-KI-Bilder-Videos-ohne-Nvidia-AMD-Strix-Halo) | [39](39-AI-Images-Video-Without-Nvidia-AMD-Strix-Halo-English) |
-| RTX 3080 Ti | [40](40-KI-Bilder-Videos-12GB-RTX-3080-Ti) | [41](41-AI-Images-Video-12GB-RTX-3080-Ti-English) |
-| RTX 3090 Ti | [42](42-Fotos-kolorieren-animieren-RTX-3090-Ti) | [43](43-Colourise-Animate-Photos-RTX-3090-Ti-English) |
-| FLUX.2 on AMD / auf AMD | [01](01-FLUX2-EVO) | [07](07-FLUX2-English) |
-| llama.cpp Vulkan on AMD / auf AMD | [05](05-Vulkan-EVO) | [14](14-vulkan-evo-English) |
-
-[SHA256](SHA256SUMS.txt)
-
-Die ZIPs enthalten Anleitungen, Skripte, JSON-Dateien und Arbeitsblätter, keine Modellgewichte oder privaten Fotos. / Instructions, scripts, JSON files and worksheets; no weights or private photographs.
-
-
-Die Ordner 01/07 und 05/14 ergänzen die älteren DE/EN-Filme. Die Installationsskripte sind vorbereitet und statisch geprüft; eine frische Installation wurde damit noch nicht durchgeführt. Details und belegter Teststand stehen in jedem README.
-
-Folders 01/07 and 05/14 accompany the earlier German/English films. Installation scripts are prepared and statically checked; clean installations have not been executed with these scripts. Each README distinguishes recorded evidence from instructions.
-
-Business 20/21: eigene Checkliste, synthetische Quellenaufgaben und ausfüllbare Auswertung. Keine Kundendaten, keine neue Testmessung und kein vollständiger Produktionsinstaller. / Original checklist, synthetic source tasks and blank score sheet; no customer data, new test measurements or complete deployment installer.
-
-## Widerstände / Resistors
-
-| Thema / Topic | Deutsch | English |
-|---|---|---|
-| Widerstände verstehen / Understand Resistors | [44](44-Widerstaende-verstehen) | [45](45-Understand-Resistors-English) |
-
-Eigene Arbeitsblätter, acht vorgeschlagene Versuche, Lösungen und eigene Schaltbilder. Die Filme sind technisch fertig; vollständige Endhörprüfung und praktische Erprobung bleiben offen. Alle angegebenen Ergebnisse sind berechnete Sollwerte; die Versuche wurden noch nicht praktisch durchgeführt. / Original worksheets, eight proposed activities, solutions and original diagrams. Films are technically complete; full listening review and practical validation remain open. Results are calculated predictions; activities have not been practically performed.
+# Dolmario Local AI: workflows for each video
+
+One folder per video, each with its guide and `WORKFLOWS.zip`. No model weights and no private photos are included.
+
+| Topic | English | Deutsch |
+|---|---|---|
+| AI images and video without Nvidia, AMD Strix Halo | [39](39-AI-Images-Video-Without-Nvidia-AMD-Strix-Halo-English) | [38](38-KI-Bilder-Videos-ohne-Nvidia-AMD-Strix-Halo) |
+| AI images and video with 12 GB, RTX 3080 Ti | [41](41-AI-Images-Video-12GB-RTX-3080-Ti-English) | [40](40-KI-Bilder-Videos-12GB-RTX-3080-Ti) |
+| Colourise and animate photos, RTX 3090 Ti | [43](43-Colourise-Animate-Photos-RTX-3090-Ti-English) | [42](42-Fotos-kolorieren-animieren-RTX-3090-Ti) |
+| FLUX.2 on AMD | [07](07-FLUX2-English) | [01](01-FLUX2-EVO) |
+| llama.cpp with Vulkan on AMD | [14](14-vulkan-evo-English) | [05](05-Vulkan-EVO) |
+| Local AI for business | [21](21-Local-AI-Companies-English) | [20](20-Lokale-KI-Firmen) |
+| Understand resistors | [45](45-Understand-Resistors-English) | [44](44-Widerstaende-verstehen) |
+
+Open the folder for your video, download `WORKFLOWS.zip` (**Download raw file**), extract it and read the guide inside. Each folder README states what was tested on which hardware. [SHA256](SHA256SUMS.txt)
+
+Newer tutorials have their own repositories: [flux-comfyui-lokal](https://github.com/dolmario/flux-comfyui-lokal) · [llama-cpp-vulkan-tutorial](https://github.com/dolmario/llama-cpp-vulkan-tutorial) · [grusskarten-und-animation-lokal](https://github.com/dolmario/grusskarten-und-animation-lokal) · [flash-next-lokal](https://github.com/dolmario/flash-next-lokal)
+
+## Deutsch
+
+Ein Ordner pro Video mit Anleitung und `WORKFLOWS.zip`, ohne Modellgewichte und ohne private Fotos. Ordner zum Video öffnen, `WORKFLOWS.zip` laden (**Download raw file**), entpacken und die Anleitung darin lesen. Was auf welcher Hardware getestet wurde, steht im README des jeweiligen Ordners. Neuere Tutorials haben eigene Repositories (Links oben).

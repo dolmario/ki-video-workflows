@@ -1,0 +1,14 @@
+{
+  "ANLEITUNG-DE.md": "08786be77a8467593ae58a94a808430740b34af972721bf9950b7a301aac6ea6",
+  "comfy_ace_lowram.py": "0577c6bb6ebcb1db0308298a508f54d370e5b54f4df2603641e70d5309ffdb1c",
+  "musik_erzeugen.py": "fdb68beda23ea2e6e178e1a72788fe4f01eb7ddb47aaa6f7268c5b1f08cfdff3",
+  "opera-original-lyrics.txt": "d990ec0ff93843c0aac6088d7559510174b0ef151db41f79a858807bab2161bd",
+  "README.md": "9fe4f7df53667db87a11ddc6009957565f78ba779b66d11eb055e540ae66c046",
+  "RECORDED-AMD-DEMO.json": "20933942078aedad5177e467261bb2d4d361d32a831426e70917042a26ae3e0a",
+  "variant-rtx3090ti-song.json": "5afc27a4377a6e991b11c4b706b8bb4fc0a5941a65571eeef417d6b732e1ae6e",
+  "variant.json": "851af0e7a134a0e579ce1ee442f56f9e3f0487346c771ce8c90ce5c760edef8f",
+  "workflow-api.json": "c10abae27d29789f36f21defd2217e9967377cf2417980419191308aa0093535",
+  "workflow-rtx3090ti-song-api.json": "cf3bfc5ab16ef8469c341479a4158faf05258a1127f508c189e4b2d3e39ea730",
+  "workflow-rtx3090ti-song-ui.json": "73eb680221938e5aecbd955789ebd646f0a47fa96ffa945604754dfa48fbd00e",
+  "workflow-ui.json": "f3e77443cc2ac5b7774e69ce606286b66abd10b030c7b5b5e33b1ee9851b0fcf"
+}

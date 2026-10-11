@@ -1,4 +1,11 @@
 # Dolmario – ein Ordner pro Video / One folder per video
+
+## New: ACE-Step 1.5 local music tutorial
+
+[English/German guide, editable ComfyUI workflows and actual helpers](46-ACE-Step-1.5-Local-Music/README.md) · [Companion ZIP](downloads/46-ACE-Step-1.5-Local-Music.zip).
+
+A real 60 s AMD test, the separately returned RTX 3090 Ti full-song workflow, original Opera lyrics, and the measured Windows loading route. The bounded AMD helper retains a 6 GiB RAM guard and targets only its own prompt ID when interrupted. Existing episodes below are preserved.
+
 
 Deutsch und Englisch haben jeweils einen eigenen nummerierten Ordner. Jeder enthält die passenden Anleitungen und WORKFLOWS.zip; die Beilagen unterscheiden sich je Video.
 

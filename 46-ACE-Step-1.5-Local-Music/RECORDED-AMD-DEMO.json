@@ -1,0 +1,21 @@
+{
+  "model": "ACE-Step 1.5 turbo",
+  "device": "AMD Ryzen AI Max+ 395 / Radeon 8060S / 64 GB total system memory",
+  "seconds_audio": 60,
+  "seconds_request": 48.796799700008705,
+  "seconds_comfy": 47.27,
+  "minimum_free_physical_gib": 6.903301239013672,
+  "variant": {
+    "seconds": 60,
+    "seed": 11,
+    "bpm": 150,
+    "key": "D minor",
+    "tags": "symphonic metal, female operatic soprano, orchestral strings, heavy guitars, dramatic chorus, music box accents",
+    "lyrics": "[verse]\nSilver lights are shining through the hall\nI can hear the midnight music call\n[chorus]\nRaise your voice and let the shadows fly\nSing the morning into the sky\n[instrumental]"
+  },
+  "audio_sha256": "b9352a84bbcdc8397eec01a7f6e50556b212f0cc35c394469f7f70a120ca0eaa",
+  "loader": "Process-local meta construction, per-tensor GPU assignment, native target dtype, own consumed CPU working-set page release on Windows",
+  "physical_ram_guard_gib": 6,
+  "full_song_on_amd_tested": false,
+  "human_listening": false
+}
